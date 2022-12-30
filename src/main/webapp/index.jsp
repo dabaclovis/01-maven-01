@@ -76,7 +76,27 @@
             </div>
         </div>
         <hr>
-        
+        <div class="w3-card-4 ">
+            <div class="card-header text-center">
+                <h4>Contact form</h4>
+            </div>
+            <div class="card-body">
+                <form>
+                    <div class="form-group">
+                        <label for="">First Name</label>
+                        <input type="text" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="">Last Name</label>
+                        <input type="text" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="">Email Address</label>
+                        <input type="email" class="form-control">
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
       
     <!-- Optional JavaScript -->
