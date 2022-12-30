@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="/resources/demos/style.css">
   </head>
   <body>
-    <nav class="navbar navbar-expand-md navbar-light bg-dark sticky-top shadow-sm">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top shadow-sm">
         <div class=" container">
         <a class="navbar-brand" href="index.jsp">BRAND</a>
         <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
