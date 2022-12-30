@@ -94,6 +94,9 @@
                         <label for="">Email Address</label>
                         <input type="email" class="form-control">
                     </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
                 </form>
             </div>
         </div>
